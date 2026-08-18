@@ -43,14 +43,10 @@ The layout automatically adapts to different screen sizes to provide a better us
 ## 📂 Project Structure
 
 ```text
-Swiggy-Landing-Page/
+swiggy-page/
 │
-├── index.html
-├── images/
-│   └── project-images
-│
-└── README.md
-```
+├── index.html   # Main webpage containing HTML, CSS, Bootstrap, and image URLs
+└── README.md    # Project documentation
 
 ## 📱 Responsive Design
 
