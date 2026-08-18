@@ -1,10 +1,10 @@
-# 🍔 Swiggy Landing Page Clone
+ 🍔 Swiggy Landing Page Clone
 
 A responsive **Swiggy Landing Page Clone** developed as part of my Frontend course at **Codegnan**.
 
 The project recreates the look and feel of the Swiggy landing page with a focus on **responsive design, clean UI, and different screen-size layouts**.
 
-## 📌 Project Overview
+ 📌 Project Overview
 
 This project was developed to practice and demonstrate frontend development concepts using **HTML, CSS, and Bootstrap**.
 
@@ -16,7 +16,7 @@ The webpage is designed to work across:
 
 The layout automatically adapts to different screen sizes to provide a better user experience.
 
-## ✨ Features
+ ✨ Features
 
 * Responsive Swiggy-style navigation bar
 * Hero section with search functionality
@@ -31,7 +31,7 @@ The layout automatically adapts to different screen sizes to provide a better us
 * Responsive cards and layouts
 * Mobile, tablet, and desktop views
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 * **HTML5** – Structure of the webpage
 * **CSS3** – Styling and custom layouts
@@ -40,7 +40,7 @@ The layout automatically adapts to different screen sizes to provide a better us
 * **Font Awesome** – Additional icons
 * **Google Fonts** – Typography
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```text
 swiggy-page/
@@ -48,23 +48,23 @@ swiggy-page/
 ├── index.html   # Main webpage containing HTML, CSS, Bootstrap, and image URLs
 └── README.md    # Project documentation
 
-## 📱 Responsive Design
+ 📱 Responsive Design
 
 The webpage is designed to provide a responsive experience on different devices.
 
-### 💻 Desktop View
+ 💻 Desktop View
 
 On larger screens, the navigation menu, search section, promotional cards, and content sections are arranged to make effective use of the available screen space.
 
-### 📲 Tablet View
+ 📲 Tablet View
 
 On tablet screens, the layout adjusts according to the available width. Elements are resized and rearranged to maintain a clean and readable interface.
 
-### 📱 Mobile View
+ 📱 Mobile View
 
 On mobile screens, the content is arranged vertically, search elements adapt to the smaller width, and cards are resized to fit the screen properly.
 
-## 📑 Main Sections
+ 📑 Main Sections
 
 The project contains the following major sections:
 
@@ -78,7 +78,7 @@ The project contains the following major sections:
 8. Cities with Food Delivery
 9. Footer
 
-## 🎯 Learning Outcomes
+ 🎯 Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -91,7 +91,7 @@ Through this project, I gained practical experience in:
 * Structuring a real-world webpage
 * Improving frontend development skills
 
-## 🚀 How to Run the Project
+ 🚀 How to Run the Project
 
 1. Clone this repository:
 
@@ -105,13 +105,13 @@ git clone <your-github-repository-url>
 
 That's it! 🎉
 
-## 👨‍💻 Developer
+👨‍💻 Developer
 
 **Sree Vardhan Sai Kurra**
 
 Python Full Stack Trainee
 Codegnan
 
-## 📌 Note
+ 📌 Note
 
 This project is created **for educational and learning purposes** as a frontend practice project. It is not affiliated with or endorsed by Swiggy.
